@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DaylyPlan</string>
+    <string name="title_loading_screen">Никому не сообщайте свой пароль!</string>
+    <string name="title_activity_main">Таааадоом</string>
+    <string name="title_home">Заметки</string>
+    <string name="title_dashboard">Календарь</string>
+    <string name="title_notifications">Настройки</string>
+    //Кнопочки
+    <string name="title_login">Авторизироваться</string>
+    <string name="title_registration">Зарегистрироваться</string>
+    <string name="title_back_to_main">Вернуться</string>
+    //Тексты
+    <string name="text_email">Введите Email</string>
+    <string name="text_password">Введите пароль</string>
+    <string name="text_re_password">Повторите пароль</string>
+    <string name="text_username">Введите имя пользователя</string>
+
+
+</resources>

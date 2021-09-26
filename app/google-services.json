@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "624598714754",
+    "project_id": "raccoons-diary",
+    "storage_bucket": "raccoons-diary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624598714754:android:2650e854c664f605a4279b",
+        "android_client_info": {
+          "package_name": "com.example.daylyplan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624598714754-q8lbugk0rglljnb104uh8lblffvrv4r3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbyzJGkUX-ihKpyHAuFuTEMmRFuCBg-mY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624598714754-q8lbugk0rglljnb104uh8lblffvrv4r3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
